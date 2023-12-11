@@ -1,0 +1,174 @@
+body{
+    background-color: rgb(14, 13, 26);
+    color: white;
+    position:static;
+}
+h2,h3{
+    color: yellow;
+}
+.navbrrr{
+    background-color: black;
+}
+.elemento{
+    color: #fff;
+    text-decoration: none;
+}
+.elemento:hover{
+    color: gray;
+}
+.barrabusqueda{
+    width: 200px;
+    border-radius: 20px;
+}
+.logo{
+    width: 55px;
+}
+.portadaPrin{
+    padding: 10px;
+}
+.contPortada{
+    height: 400px;
+    width: 500px;
+    min-width: 200px;
+    min-height: 200px;
+    margin: 10px;
+}
+.oscuro{
+    color: #000;
+}
+.portadas{
+    width: 150px;
+    margin: 10px;
+}
+.portadasSm{
+    width: 100%;
+    margin: 10px;
+}
+.portadasTop{
+    width: 200px;
+    margin: 10px;
+}
+.contPortChiquito{
+    height: 250px;
+    width: 250px;
+    margin: 0px;
+}
+.imagenes{
+    width: fit-content;
+    margin: 10px;
+}
+.portTend{ 
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    width: 200px;
+    height: 200px;
+    min-width: 140px;
+    min-height: 140px;
+    margin: 30px;;
+    padding: 30px;
+}
+.tops{
+    min-width: 250px;
+    margin: 40px;
+    padding: 30px;
+    display: grid;
+    align-items: center;
+    background-color: rgba(252, 252, 252, 0.137);
+}
+.footerRep{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(255, 166, 0);
+    height: 150px;
+}
+.ftrCont{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0px 0px 10px 0px;
+}
+.ftrIcon{
+    height: 40px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.ftrMusica{
+    min-height: 50px;
+    height: 150px;
+    float: left;
+}
+.progressBar{
+    width: 80%;
+    height: 5px;
+    border-radius: 10px;
+    background-color: black;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.recomend{
+    min-width: 280px;
+}
+.album{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(252, 252, 252, 0.137);
+    color: yellow;
+    margin: 10px;
+    padding: 10px 0px;
+    min-width: 190px;
+    width: 200px;
+}
+.album h4{
+    font-size: 15px;
+    width: 180px;
+}
+.album p {
+    color: white;
+    width: 180px;
+}
+.album img{
+    width: 180px;
+}
+.artistas{
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+}
+.contArtista{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+}
+.playlistCont{
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    background-color: rgba(252, 252, 252, 0.137);
+    height: 150px;
+    margin: 30px;
+}
+.imgPl{
+    width: 200px;
+}
+.pl{
+    margin: 40px;
+}
+.plIcon{
+    height: 40px;
+    margin: 10px;
+}
+.filaAlbum{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.portadasgod{
+    width: 200px;
+    margin: 20px;
+}
+.seccion{
+    margin-bottom: 20px;
+}
